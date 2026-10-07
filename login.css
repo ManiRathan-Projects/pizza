@@ -1,0 +1,30 @@
+form{
+    border: 1px solid rgb(234, 225, 225);
+    width: 400px;
+    margin-left: 850px;
+    padding-left: 10px;
+    border-radius: 0% 0% 50% 0%;
+}
+body {
+    background-image: url("photo2.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 750px;
+}
+h1{
+    color:wheat;
+    font-size: 45px;
+}
+label{
+    color: rgb(243, 234, 234);
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    width: 140px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: rgb(198, 227, 230);
+    color: rgb(236, 14, 14);
+    font-size: 33px;
+    font-weight: bold;
+}

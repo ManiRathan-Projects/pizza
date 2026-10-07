@@ -1,0 +1,23 @@
+body{
+    background-image: url("photo3.avif");
+    background-repeat: no-repeat;
+    background-size: 1600px 750px;
+}
+h1,h2{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+     margin-left: 800px;
+}
+button{
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: rgb(198, 227, 230);
+    color: rgb(8, 8, 8);
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+#text1{
+    margin-left: 800px;
+}
